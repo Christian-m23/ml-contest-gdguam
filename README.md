@@ -4,7 +4,7 @@ Classifying (4-channel × 256-timestep) time series into 8 classes under a 60s p
 
 **Status:** 🚧 In progress
 
-**Team:** [Your name], [Teammate name]
+**Team:** Christian Menhem , Giovanni Chebli 
 
 **Baseline score (demo test):** 0.43 accuracy, score 0.209
 **Our best so far:** TBD
